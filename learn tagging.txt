@@ -1,1 +1,2 @@
 Version 1.0 for learning tagging.
+Version 1.1 for learning tagging.
